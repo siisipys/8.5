@@ -4,9 +4,9 @@ Aplikasi Portal Berita dengan Flutter dan Firebase Authentication. Aplikasi ini 
 
 ## Download Project
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1mUsYWpyvZyEbxtAhEP8lOK6HOVwVLn_C/view?usp=sharing)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1C_emiQCpoRJp3LPMSBhsOwWAJesAA5dH?usp=sharing)
 
-**[Download Portal Berita (ZIP)](https://drive.google.com/file/d/1mUsYWpyvZyEbxtAhEP8lOK6HOVwVLn_C/view?usp=sharing)**
+**[Download Portal Berita (ZIP)](https://drive.google.com/drive/folders/1C_emiQCpoRJp3LPMSBhsOwWAJesAA5dH?usp=sharing)**
 
 Isi file ZIP:
 - 📄 **Laporan Project** (PDF)
