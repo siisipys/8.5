@@ -2,7 +2,18 @@
 
 Aplikasi Portal Berita dengan Flutter dan Firebase Authentication. Aplikasi ini memungkinkan pengguna untuk membaca, menambah, mengedit, dan menghapus berita dengan sistem autentikasi yang aman.
 
-## 📱 Fitur Utama
+## Download Project
+
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1mUsYWpyvZyEbxtAhEP8lOK6HOVwVLn_C/view?usp=sharing)
+
+**[Download Portal Berita (ZIP)](https://drive.google.com/file/d/1mUsYWpyvZyEbxtAhEP8lOK6HOVwVLn_C/view?usp=sharing)**
+
+Isi file ZIP:
+- 📄 **Laporan Project** (PDF)
+- 💻 **Source Code** (Flutter Project)
+- 📱 **APK** (Android Application)
+
+##  Fitur Utama
 
 ### 1. Autentikasi (Firebase Authentication)
 - **Login** dengan email dan password
@@ -31,7 +42,7 @@ Aplikasi Portal Berita dengan Flutter dan Firebase Authentication. Aplikasi ini 
 - **Halaman Form Berita**: Tambah/edit berita
 - **Halaman Profil**: Manajemen profil dengan CRUD
 
-## 🏗️ Struktur Project
+##  Struktur Project
 
 ```
 lib/
@@ -58,7 +69,7 @@ lib/
     └── shimmer_loading.dart  # Widget loading shimmer
 ```
 
-## 🔐 Alur Autentikasi
+##  Alur Autentikasi
 
 ```
 ┌─────────────────┐
@@ -79,7 +90,7 @@ lib/
 └───────┘ └────────────┘
 ```
 
-## 📦 Dependencies
+##  Dependencies
 
 ```yaml
 dependencies:
@@ -98,7 +109,7 @@ dependencies:
   shimmer: ^3.0.0
 ```
 
-## 🔥 Struktur Data Firebase
+##  Struktur Data Firebase
 
 ### Collection: `users`
 ```json
@@ -128,7 +139,7 @@ dependencies:
 }
 ```
 
-## 🚀 Cara Menjalankan
+##  Cara Menjalankan
 
 1. **Clone repository**
    ```bash
@@ -153,7 +164,7 @@ dependencies:
    flutter run
    ```
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Login & Register
 - Tampilan login dengan gradient background
@@ -170,7 +181,7 @@ dependencies:
 - Edit profil dengan bottom sheet
 - Logout dan hapus akun
 
-## ✨ Fitur Keamanan
+##  Fitur Keamanan
 
 - Password minimal 6 karakter
 - Validasi email format
@@ -178,7 +189,7 @@ dependencies:
 - Konfirmasi sebelum hapus akun
 - Reset password via email
 
-## 📝 Catatan Pengembangan
+##  Catatan Pengembangan
 
 - Menggunakan StreamBuilder untuk realtime data
 - Pattern service untuk business logic
@@ -186,7 +197,7 @@ dependencies:
 - Consistent error handling dengan SnackBar
 - Indonesian locale untuk format tanggal
 
-## 👨‍💻 Author
+##  Author
 
 Tugas Praktikum Web - Semester 3
 
